@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Brian Gakuya
-- 👀 I’m interested in machine learning and AI projects,internet of Things,,Microcontrollers, Home automation and wireless communication.
-- 🌱 I’m currently learning  Javascript and html.
-- 💞️ I’m looking to collaborate on web development.
+- 👋 Hi, I’m Brian Karuri
+- 👀 I’m an electrical and electronics engineer with experience in control systems,Embedded systems and progarammable logic controllers for industrial automation.
+- 🌱 I’m currently learning datascince and Machine learning .
 - 📫 How to reach me  brianolevk@gmail.com
 
 <!---
