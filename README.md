@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian Karuri
-- 👀 I’m an electrical and electronics engineer with experience in control systems,Embedded systems and progarammable logic controllers for industrial automation.
+- I’m an electrical and electronics engineer with experience in control systems,Embedded systems and progarammable logic controllers for industrial automation.
 - 🌱 I’m currently learning datascince and Machine learning .
 - 📫 How to reach me  brianolevk@gmail.com
 
